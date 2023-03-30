@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "sea_the_essay_faas": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7093",
+      "launchBrowser": false
+    }
+  }
+}
